@@ -34,3 +34,5 @@ streamlit run streamlit_app.py
 ```
 
 Uygulamanız şu anki yapılandırmada varsayılan olarak **http://localhost:8505** adresinde yayına girecektir.
+
+Geliştiren: ALİ İHSAN ÇETİN
