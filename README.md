@@ -1,4 +1,4 @@
-# NLP Duygu Analizi Projesi (Gemini AI)
+# Ali İhsan Çetin - AI Duygu Analizi Projesi (Gemini AI)
 
 Bu proje, Google Gemini 2.0 Flash Lite modelini kullanarak metinlerin duygu analizini (Pozitif, Negatif, Nötr) gerçekleştiren modern bir web uygulamasıdır.
 

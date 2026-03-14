@@ -47,8 +47,8 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🤖 Yapay Zeka Destekli Duygu Analizi")
-st.subheader("Metinlerinizi analiz edin ve duygusal tonunu keşfedin.")
+st.title("🤖 Ali İhsan Çetin - AI Duygu Analizi")
+st.subheader("Yapay zeka destekli metin analiz araçları.")
 
 # Sidebar - Geçmiş
 if 'history' not in st.session_state:
@@ -150,4 +150,4 @@ with col2:
         st.write("Veri bekleniyor...")
 
 st.markdown("---")
-st.caption("powered by Gemini 1.5 Flash")
+st.caption("Developed by Ali İhsan Çetin | Powered by Gemini 2.0 Flash Lite")
