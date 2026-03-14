@@ -150,4 +150,4 @@ with col2:
         st.write("Veri bekleniyor...")
 
 st.markdown("---")
-st.caption("Developed by Ali İhsan Çetin | Powered by Gemini 2.0 Flash Lite")
+st.caption("Geliştiricisi: Ali İhsan ÇETİN | Powered by Gemini 2.0 Flash Lite")
