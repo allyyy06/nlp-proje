@@ -12,8 +12,8 @@ Bu proje, Google Gemini 2.0 Flash Lite modelini kullanarak metinlerin duygu anal
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/allyyy06/nlp-sentiment-project.git
-   cd nlp-sentiment-project
+   git clone https://github.com/allyyy06/nlp-proje.git
+   cd nlp-proje
    ```
 
 2. `.env` dosyasını oluşturun ve API anahtarınızı ekleyin:
